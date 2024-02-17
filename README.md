@@ -1,1 +1,53 @@
-<h1 align="center">Hi there 👋, I'm Rayhaan Yaser Mohammed</h1> <h3 align="center">An Upcoming Engineer</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzray116r&label=Profile%20views&color=0e75b6&style=flat" alt="itzray116r" /> </p> <h3 align="left">Connect with me:</h3> <p align="left"> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+# Hi there, I'm Rayhaan Mohammed 👋
+
+## About Me
+I'm an aspiring engineer currently honing my skills in various technologies. Passionate about coding, problem-solving, and exploring new technologies to create innovative solutions.
+
+## 🚀 Technologies & Tools
+- **Languages:** 
+  ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) 
+  ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
+  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) 
+  ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+- **Web Development:** 
+  ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg) 
+  ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg) 
+  ![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg) 
+  ![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg)
+- **Databases:** 
+  ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg) 
+  ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
+- **DevOps:** 
+  ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg)
+- **Other Tech:** 
+  ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg) 
+  ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git-scm/git-scm-icon.svg) 
+  ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzray116R&theme=nord&hide_border=false&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzray116R&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🤝 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+[Email](mailto:your.email@example.com)
+
+## 😄 Let's Collaborate
+I'm open to collaborations on interesting projects. If you have a cool idea or need help, feel free to reach out!
+
+## 🌐 Find Me Online
+- [Portfolio](https://your-portfolio-website.com)
+- [Twitter](https://twitter.com/your_twitter_handle)
+- [Instagram](https://www.instagram.com/your_instagram_handle/)
+
+## 📫 Contact Me
+Feel free to drop me an email at your.email@example.com.
+
+## 🎓 Currently Learning
+Always on the lookout for new technologies and learning experiences. Currently diving into [Current Learning Focus].
+
+## ⚡ Fun Fact
+[Fun fact about yourself or your interests.]
+
+---
+Proudly created with [GitHub README Generator](https://github.com/your-profile/generator)
