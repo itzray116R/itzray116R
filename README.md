@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Rayhan</h1>
+<h1 align="center">Hi 👋, I'm Rayhaan Mohammed</h1>
 <h2 align="center"> ReadMe in progress</h2>
 <h3 align="center">An Upcoming Engineer</h3>
 
