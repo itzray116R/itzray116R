@@ -11,6 +11,8 @@ I'm an aspiring engineer currently honing my skills in various technologies. Pas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzray116R&theme=nord&hide_border=false&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzray116R&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Snake animation](https://github.com/itzray116R/itzray116R/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 😄 Let's Collaborate
 I'm open to collaborations on interesting projects. If you have a cool idea or need help, feel free to reach out!
