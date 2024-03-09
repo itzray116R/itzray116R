@@ -1,7 +1,7 @@
 # Hi there, I'm Rayhaan Mohammed 👋
 
 ## About Me
-I'm an aspiring engineer currently honing my skills in various technologies. Passionate about coding, problem-solving, and exploring new technologies to create innovative solutions.
+I'm an aspiring engineer currently honing my skills in various technologies. Passionate about programming and learning new languages, problem-solving, and exploring new technologies to create innovative solutions.
 
 ## 🚀 Technologies & Tools
 # 💻 Tech Stack:
