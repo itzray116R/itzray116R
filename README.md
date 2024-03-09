@@ -19,7 +19,7 @@ I'm open to collaborations on interesting projects. If you have a cool idea or n
 
 
 ## 🎓 Currently Learning
-Always on the lookout for new technologies and learning experiences. Currently diving into [Current Learning Focus].
+Always on the lookout for new technologies and learning experiences. Currently diving into Web and Mobile Development with learning Dev-ops as a supplementary.
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
